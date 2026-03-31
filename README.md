@@ -18,26 +18,29 @@ cybercrime. Each task felt practical and something I can actually use in real li
 Digital-Literacy
 │
 ├── Task-1-Presentation
--> Infographic Presentation
+│   └── Infographic Presentation
+│
 ├── Task-2-Portfolio
--> Kaggle
--> Stock Overflow
--> Research Gate
+│   ├── Kaggle
+│   ├── Stack Overflow
+│   └── ResearchGate
+│
 ├── Task-3-Platforms
--> Hacker Rank
--> Achievement 
--> Google Form
--> Response View
+│   ├── HackerRank
+│   ├── Achievement
+│   ├── Google Form
+│   └── Response View
+│
 ├── Task-4-Email-Etiquette
--> Email Etiquette
--> Social Media Checklist
+│   ├── Email Etiquette
+│   └── Social Media Checklist
+│
 ├── Task-5-Cybercrime
--> Stay Safe Online
--> Task-5
+│   ├── Stay Safe Online
+│   └── Case Study
 │
 └── Project Report
 
-# **What i did in each Task** #
 
 # **Task-1** #
 I created a simple infographic slide to explain digital literacy in an easy way.
@@ -46,12 +49,12 @@ The goal was to make it understandable for my classmates, not just informative.
 # **Task-2** #
 I explored platforms like Kaggle, Stack Overflow, and ResearchGate.
 This was my first time thinking seriously about having an online presence and how it might matter in the future.
-Followings are link of my digital Presence:-
+Followings are link of my digital Presence:-      
 Kaggle - [https://www.kaggle.com/](https://www.kaggle.com/v2e0dant0tom7ar)
 Stack Overflow - https://stackoverflow.com/users/32564031/vedant-tomar-25bai10063
 Research Gate - https://www.researchgate.net/profile/Vedant-Tomar-4?ev=hdr_xprf
 
-# ** Task-3** #
+# **Task-3** #
 I solved a beginner problem on HackerRank, which helped me get more comfortable with coding.
 I also created a small quiz using Google Forms to spread awareness about digital literacy.
 google form link - https://docs.google.com/forms/d/e/1FAIpQLSfkN98GSMQzvjzdMrVhxPlNhxs_TvfcR7GzghK0qPAgM0tvcw/viewform?usp=dialog
